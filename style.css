@@ -1,0 +1,34 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2de5a057-55a4-4eeb-b273-fddcfa28e2d3/demr2jx-012556be-ed62-440b-be25-a6966a8f0d6c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJkZTVhMDU3LTU1YTQtNGVlYi1iMjczLWZkZGNmYTI4ZTJkM1wvZGVtcjJqeC0wMTI1NTZiZS1lZDYyLTQ0MGItYmUyNS1hNjk2NmE4ZjBkNmMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wJS94sHLwO9Xl69ypUxVN0jyxIYG3FEEVhHQw5U0H8c);
+    background-size: cover;
+    width: 100%;
+    
+
+}
+.dice {
+    margin-left: 50%;
+    margin-top: 10%;
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+}
+button{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 5px;
+    background-color: lightblue;
+    border-color: rgb(255, 153, 0);
+    font-family: sans-serif;
+}
+#Result{
+    margin-top: 30px;
+    margin-left: 20px;
+    font-family: sans-serif;
+}
+h1{
+    color: rgb(0, 0, 0);
+    font-style: italic;
+}
